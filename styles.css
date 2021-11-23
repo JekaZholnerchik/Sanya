@@ -1,0 +1,26 @@
+body {
+    background: url(mox.jpg) fixed;
+    text-align: center;
+}
+
+h1 {
+    font: 50px 'Roboto', sans-serif;
+    font-weight: bold;
+    color: wheat;
+    margin-top: 25%;
+}
+
+a {
+    font: 25px 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 20px;
+    color: wheat;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+     display: flex;
+     margin-bottom: 20px;
+     margin-left: 42%;
+}
